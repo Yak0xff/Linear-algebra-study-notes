@@ -20,7 +20,7 @@
 - 序1 [矩阵](chapter00.ipynb)
 - 序2 [向量](chapter000.ipynb)
 - 第01集 [方程组的几何解释](chapter01.ipynb)
-- 第02集 [矩阵消元](chapter02.ipynb)
+- 第02集 [高斯消元](chapter02.ipynb)
 - 第03集 [乘法和逆矩阵](chapter03.ipynb)
 - 第04集 [A的LU分解](chapter04.ipynb)
 - 第05集 [转置-置换-向量空间R](chapter05.ipynb)
