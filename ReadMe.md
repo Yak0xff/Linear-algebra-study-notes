@@ -1,10 +1,10 @@
-# 线性代数及其应用
+# 线性代数学习笔记
 
 ## 简介
 
 **作者：Robin**
 
-线性代数及其应用学习笔记，使用 `jupyter notebook (ipython notebook)` 编写展示。
+线性代数学习笔记，使用 `jupyter notebook (ipython notebook)` 编写展示。
 
 ----
 
