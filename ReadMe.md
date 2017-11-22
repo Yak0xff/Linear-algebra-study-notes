@@ -17,8 +17,8 @@
 ## 目录
 
 
-- 序1 [矩阵](chapter00.ipynb)
-- 序2 [向量](chapter000.ipynb)
+- 序1 [矩阵简介](chapter00.ipynb)
+- 序2 [向量简介](chapter000.ipynb)
 - 01 [方程组的几何解释](chapter01.ipynb)
 - 02 [矩阵消元](chapter02.ipynb)
 - 03 [乘法和逆矩阵](chapter03.ipynb)
